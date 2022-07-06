@@ -221,6 +221,7 @@
     "ret": "^0.1.15",
     "safe-buffer": "^5.1.2",
     "safe-regex": "^1.1.0",
+    "sass": "^1.53.0",
     "semver": "^5.7.1",
     "semver-greatest-satisfied-range": "^1.1.0",
     "set-blocking": "^2.0.0",
@@ -288,6 +289,7 @@
     "gulp-autoprefixer": "^8.0.0",
     "gulp-clean-css": "^4.3.0",
     "gulp-cli": "^2.3.0",
+    "gulp-rename": "^2.0.0",
     "gulp-sass": "^5.1.0"
   },
   "scripts": {
